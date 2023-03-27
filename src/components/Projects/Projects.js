@@ -37,7 +37,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Bits-0f-C0de"
-              description="My personal blog page build with Node.js, React.js,css and html  which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="My personal blog page build with Node.js, React.js,css and html  which takes the content from makdown files. we can update & delete article ."
               ghLink="https://github.com/100rbhsarin"
               demoLink="https://bluntboys-blog.onrender.com/"
             />
