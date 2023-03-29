@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Saurabh Sarin </span>
             from <span className="purple"> Ranchi, India.</span>
-            <br />I am As a civil engineer turned full stack developer, I bring a unique perspective to software development that is informed by my experiences in engineering. With a strong foundation in problem-solving and attention to detail, I have developed a passion for creating dynamic web applications that provide intuitive and efficient user experiences.
+            <br />I am a civil engineer turned full stack developer, I bring a unique perspective to software development that is informed by my experiences in engineering. With a strong foundation in problem-solving and attention to detail, I have developed a passion for creating dynamic web applications that provide intuitive and efficient user experiences.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
